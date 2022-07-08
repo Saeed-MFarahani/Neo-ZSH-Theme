@@ -1,10 +1,12 @@
 # Neo-ZSH-Theme
 A great theme for zsh with time and get support and error message
 
-
-Show some errors as message like
-
-    130 => TERMINATED BY USER
-# Screenshot
-
+## Why Neo theme
+1 - Show some errors as *message*
+> 130 => TERMINATED BY USER
+2 - Live Clock 🕑
+3 - Support git plugin extention
+## Screenshot
 ![neo theme screenshot](Screenshot.png)
+> Font Monospace reqular 10
+> Color theme Gruvbox
