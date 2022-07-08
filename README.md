@@ -9,7 +9,9 @@ A great theme for zsh with time and get support and error message
 2 - Live Clock 🕑
 
 3 - Support git plugin extention
+
 4 - Different colors for root user and SSH mode
+
 ## Screenshot
 ![neo theme screenshot](Screenshot.png)
 > Font Monospace reqular 10
