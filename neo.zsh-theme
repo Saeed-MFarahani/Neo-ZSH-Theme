@@ -20,7 +20,7 @@ fi
 
 local e001="%(1?.(!) GENERAL ERROR%f ↵."
 local e002="%(2?.(!) MISUSE OF SHELL BUILTINS%f ↵."
-local e126="%(126?.(!) COMMAND INVOKED CANNOT EXECUTE%f ↵."
+local e126="%(126?.(!) CANNOT EXECUTE%f ↵."
 local e127="%(127?.(!) COMMAND NOT FOUND%f ↵."
 local e128="%(128?.(!) INVALID ARGUMENT TO EXIT%f ↵."
 local e130="%(130?.(!) TERMINATED BY USER%f ↵."
